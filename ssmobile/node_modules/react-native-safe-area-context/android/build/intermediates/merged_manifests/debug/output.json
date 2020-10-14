@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.th3rdwave.safeareacontext",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "react-native-safe-area-context-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.th3rdwave.safeareacontext",
+        "split": ""
+      }
+    }
+  ]
+}
